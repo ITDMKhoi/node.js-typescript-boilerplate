@@ -11,3 +11,8 @@ Live event on November 5, 2020.
 
 In this tutorial, we will be building a Go web application that converts
 markdown to HTML and displays them in your browser.
+
+To participate in this tutorial, you will need to download:
+
+1. [Go](https://golang.org/doc/install)
+2. [VSCode](https://code.visualstudio.com/)
