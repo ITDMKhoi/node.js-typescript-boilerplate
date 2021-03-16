@@ -29,3 +29,5 @@ in our talk,
 If you would like to run this web app:
 
 1. Clone this repository.
+2. Run `go run main.go`.
+3. Visit localhost:8080/turkeychili.
