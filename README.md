@@ -23,3 +23,9 @@ The contents of this repository was presented at
 [Google Open Source Live](https://opensourcelive.withgoogle.com/events/go) 
 in our talk,
 [Level Up: Go Package Discovery and Editor Tooling](https://www.youtube.com/watch?v=n7ayE29b7QA&feature=emb_logo).
+
+## Usage
+
+If you would like to run this web app:
+
+1. Clone this repository.
