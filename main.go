@@ -9,3 +9,6 @@ import (
 	"log"
 	"net/http"
 	"path/filepath"
+	"strings"
+
+	"html/template"
