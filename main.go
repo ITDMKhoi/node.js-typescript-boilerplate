@@ -12,3 +12,7 @@ import (
 	"strings"
 
 	"html/template"
+
+	"github.com/yuin/goldmark"
+	emoji "github.com/yuin/goldmark-emoji"
+	"github.com/yuin/goldmark/extension"
