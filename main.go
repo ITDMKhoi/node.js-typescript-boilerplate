@@ -18,3 +18,8 @@ import (
 	"github.com/yuin/goldmark/extension"
 	"github.com/yuin/goldmark/renderer/html"
 	"github.com/yuin/goldmark/text"
+)
+
+// Page represents an HTML page.
+type Page struct {
+	Body template.HTML
