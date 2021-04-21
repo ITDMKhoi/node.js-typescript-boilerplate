@@ -23,3 +23,6 @@ import (
 // Page represents an HTML page.
 type Page struct {
 	Body template.HTML
+}
+
+func main() {
