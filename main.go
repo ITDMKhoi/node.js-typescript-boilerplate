@@ -26,3 +26,5 @@ type Page struct {
 }
 
 func main() {
+	http.HandleFunc("/", handler)
+	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("./static"))))
