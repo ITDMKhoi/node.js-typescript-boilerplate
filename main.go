@@ -30,3 +30,5 @@ func main() {
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("./static"))))
 
 	addr := ":8080"
+	log.Printf("Listening on addr %s", addr)
+	log.Fatal(http.ListenAndServe(addr, nil))
