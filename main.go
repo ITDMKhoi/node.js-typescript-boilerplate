@@ -32,3 +32,4 @@ func main() {
 	addr := ":8080"
 	log.Printf("Listening on addr %s", addr)
 	log.Fatal(http.ListenAndServe(addr, nil))
+}
