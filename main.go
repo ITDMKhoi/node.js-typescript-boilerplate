@@ -40,3 +40,6 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	title := strings.TrimPrefix(r.URL.Path, "/")
+	p, err := loadPage(title)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
