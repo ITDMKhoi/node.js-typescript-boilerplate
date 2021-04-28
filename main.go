@@ -33,3 +33,7 @@ func main() {
 	log.Printf("Listening on addr %s", addr)
 	log.Fatal(http.ListenAndServe(addr, nil))
 }
+
+func handler(w http.ResponseWriter, r *http.Request) {
+	if r.URL.Path == "/" {
+		fmt.Fprintf(w, "Hello! Type the recipe you are looking for into the URL.")
