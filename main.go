@@ -47,3 +47,6 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	tmpl := template.Must(template.New("view").Parse(`<div>{{.Body}}</div>`))
+
+	if err := tmpl.Execute(w, p); err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
