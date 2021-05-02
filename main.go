@@ -43,3 +43,4 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	p, err := loadPage(title)
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
