@@ -50,3 +50,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 
 	if err := tmpl.Execute(w, p); err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
+	}
+}
+
+func loadPage(title string) (*Page, error) {
