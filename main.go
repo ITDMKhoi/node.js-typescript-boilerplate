@@ -59,3 +59,6 @@ func loadPage(title string) (*Page, error) {
 	if err != nil {
 		return nil, err
 	}
+
+	b, err := renderMarkdown(body)
+	if err != nil {
