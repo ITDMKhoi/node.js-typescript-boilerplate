@@ -54,3 +54,6 @@ func handler(w http.ResponseWriter, r *http.Request) {
 }
 
 func loadPage(title string) (*Page, error) {
+	filename := title + ".md"
+	body, err := ioutil.ReadFile(filepath.Join("static", filename))
+	if err != nil {
