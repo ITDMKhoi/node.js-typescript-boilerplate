@@ -57,3 +57,5 @@ func loadPage(title string) (*Page, error) {
 	filename := title + ".md"
 	body, err := ioutil.ReadFile(filepath.Join("static", filename))
 	if err != nil {
+		return nil, err
+	}
