@@ -65,3 +65,7 @@ func loadPage(title string) (*Page, error) {
 		return nil, err
 	}
 	return &Page{Body: b}, nil
+}
+
+func renderMarkdown(input []byte) (template.HTML, error) {
+	md := goldmark.New(
