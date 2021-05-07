@@ -69,3 +69,5 @@ func loadPage(title string) (*Page, error) {
 
 func renderMarkdown(input []byte) (template.HTML, error) {
 	md := goldmark.New(
+		goldmark.WithExtensions(extension.GFM, extension.Table, emoji.Emoji),
+		goldmark.WithRendererOptions(html.WithUnsafe()))
