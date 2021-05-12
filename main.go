@@ -78,3 +78,4 @@ func renderMarkdown(input []byte) (template.HTML, error) {
 		return "", err
 	}
 	return template.HTML(b.String()), nil
+}
