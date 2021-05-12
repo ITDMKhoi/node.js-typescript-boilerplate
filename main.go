@@ -71,3 +71,10 @@ func renderMarkdown(input []byte) (template.HTML, error) {
 	md := goldmark.New(
 		goldmark.WithExtensions(extension.GFM, extension.Table, emoji.Emoji),
 		goldmark.WithRendererOptions(html.WithUnsafe()))
+	reader := text.NewReader(input)
+	doc := md.Parser().Parse(reader)
+	var b strings.Builder
+	if err := md.Renderer().Render(&b, input, doc); err != nil {
+		return "", err
+	}
+	return template.HTML(b.String()), nil
