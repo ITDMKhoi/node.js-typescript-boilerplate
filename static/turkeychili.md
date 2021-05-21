@@ -1,3 +1,3 @@
 # Turkey Chili :turkey: :turkey:
 
-[![Tu
+[![Turkey
