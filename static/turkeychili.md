@@ -3,4 +3,4 @@
 [![Turkey Chili][TurkeyChiliImage]][TurkeyChiliURL]
 
 
-## Ingre
+## Ingred
