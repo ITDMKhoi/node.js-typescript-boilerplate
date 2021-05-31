@@ -3,4 +3,4 @@
 [![Turkey Chili][TurkeyChiliImage]][TurkeyChiliURL]
 
 
-## Ingredien
+## Ingredient
