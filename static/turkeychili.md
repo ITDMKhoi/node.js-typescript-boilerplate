@@ -5,4 +5,4 @@
 
 ## Ingredients
 
-Ingredients for Tu
+Ingredients for Turke
