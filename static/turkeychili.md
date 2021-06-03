@@ -5,4 +5,4 @@
 
 ## Ingredients
 
-Ingredients for Turkey Ch
+Ingredients for Turkey Chili
