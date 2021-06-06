@@ -6,4 +6,4 @@
 ## Ingredients
 
 Ingredients for Turkey Chili:
-| Amount 
+| Amount | Ingr
