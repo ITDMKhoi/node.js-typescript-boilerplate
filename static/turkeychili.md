@@ -8,4 +8,4 @@
 Ingredients for Turkey Chili:
 | Amount | Ingredient | Preparation |
 | :--- | :--- | :--- |
-| 1 tablespoon |
+| 1 tablespoon | 
