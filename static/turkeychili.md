@@ -10,4 +10,5 @@ Ingredients for Turkey Chili:
 | :--- | :--- | :--- |
 | 1 tablespoon | olive oil |
 | 2 pounds | ground turkey |
-| 2 cups | onions | coarsely choppe
+| 2 cups | onions | coarsely chopped |
+|
