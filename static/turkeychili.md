@@ -13,4 +13,4 @@ Ingredients for Turkey Chili:
 | 2 cups | onions | coarsely chopped |
 | 2 tablespoons | garlic | chopped |
 | 1 cup | celery | chopped |
-| 1 large | sweet red pepper | coarsely chop
+| 1 large | sweet red pepper | coarsely chopped|
