@@ -17,4 +17,4 @@ Ingredients for Turkey Chili:
 | 1 | jalapeno pepper | finely chopped |
 | 1 tablespoon| fresh oregano | chopped |
 | 2 | bay leaves|
-| 3 tablespoons| chili 
+| 3 tablespoons| chili pow
