@@ -19,4 +19,5 @@ Ingredients for Turkey Chili:
 | 2 | bay leaves|
 | 3 tablespoons| chili powder |
 | 2 teaspoons | ground cumin|
-| 3 cups | canned diced tomatoes 
+| 3 cups | canned diced tomatoes |
+| 2
