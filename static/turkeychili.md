@@ -21,4 +21,4 @@ Ingredients for Turkey Chili:
 | 2 teaspoons | ground cumin|
 | 3 cups | canned diced tomatoes |
 | 2 cups | canned chicken broth|
-| 2 15-ounce cans|
+| 2 15-ounce cans| r
