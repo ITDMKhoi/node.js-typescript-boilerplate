@@ -22,4 +22,4 @@ Ingredients for Turkey Chili:
 | 3 cups | canned diced tomatoes |
 | 2 cups | canned chicken broth|
 | 2 15-ounce cans| red kidney beans| drained|
-| 2 cups | chedda
+| 2 cups | cheddar 
