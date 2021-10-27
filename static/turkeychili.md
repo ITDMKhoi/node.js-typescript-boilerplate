@@ -24,4 +24,4 @@ Ingredients for Turkey Chili:
 | 2 15-ounce cans| red kidney beans| drained|
 | 2 cups | cheddar cheese| shredded|
 | 1 cup | sour cream|
-| 1 | lime | sliced for garnish
+| 1 | lime | sliced for garnish 
