@@ -28,4 +28,4 @@ Ingredients for Turkey Chili:
 | To taste| Salt and freshly ground pepper|
 
 
-## Instruc
+## Instructio
