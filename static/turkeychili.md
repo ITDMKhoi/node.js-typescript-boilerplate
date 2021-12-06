@@ -30,4 +30,4 @@ Ingredients for Turkey Chili:
 
 ## Instructions
 
-1. Heat the oil over high heat in a large heavy pot 
+1. Heat the oil over high heat in a large heavy pot and ad
