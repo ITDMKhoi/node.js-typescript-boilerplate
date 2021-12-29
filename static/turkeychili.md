@@ -30,4 +30,4 @@ Ingredients for Turkey Chili:
 
 ## Instructions
 
-1. Heat the oil over high heat in a large heavy pot and add the turkey meat. Cook until lightly browned, about 5 minute
+1. Heat the oil over high heat in a large heavy pot and add the turkey meat. Cook until lightly browned, about 5 minutes, ch
