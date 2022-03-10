@@ -31,4 +31,4 @@ Ingredients for Turkey Chili:
 ## Instructions
 
 1. Heat the oil over high heat in a large heavy pot and add the turkey meat. Cook until lightly browned, about 5 minutes, chopping down and stirring with the side of a heavy kitchen spoon to break up any lumps.
-2. Add the onions, garlic, sweet pepper, celery, jalapeno pepper, oregano, bay leaves, chili powder and cumin. Stir to blend well. Cook for 5 m
+2. Add the onions, garlic, sweet pepper, celery, jalapeno pepper, oregano, bay leaves, chili powder and cumin. Stir to blend well. Cook for 5 min
