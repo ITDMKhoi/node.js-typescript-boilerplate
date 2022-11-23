@@ -36,4 +36,4 @@ Ingredients for Turkey Chili:
 4. Add the drained beans and cook, stirring occasionally, for 10 minutes longer. Serve in bowls with cheddar cheese, and sour cream and lime wedges, if desired.
 
 
-   [TurkeyChili
+   [TurkeyChiliIma
