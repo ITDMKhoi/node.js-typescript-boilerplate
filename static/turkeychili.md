@@ -37,3 +37,4 @@ Ingredients for Turkey Chili:
 
 
    [TurkeyChiliImage]: /static/turkeychili.jpeg
+   
